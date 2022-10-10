@@ -5,7 +5,6 @@ soyoung park<br>
 Front-end Developer</p>
 <hr>
 <h4>💡contect<h4>
-<p>+82 10-2814-8266<br>
 0001401@naver.com</p>
 
 <hr>
