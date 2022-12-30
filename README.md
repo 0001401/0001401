@@ -24,7 +24,7 @@ type SoyoungType = 'react' | 'javascript'
 ### I'm learning 🔥
 <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=Vite&logoColor=white"> <img src="https://img.shields.io/badge/Typescript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-000000.svg?style=flat-square&logo=Recoil&logoColor=white"> <img src="https://img.shields.io/badge/ReactQuery-FF4154.svg?style=flat-square&logo=ReactQuery&logoColor=white">
 
-### Contect 😉
+### Contact 😉
 
   <a href="https://velog.io/@resyve"><img src="https://img.shields.io/badge/VBlog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@resyve"/></a>
   <a href="https://www.instagram.com/neednight/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/neednight/"/></a>
