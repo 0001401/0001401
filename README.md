@@ -28,7 +28,7 @@ type SoyoungType = 'react' | 'javascript'
 
   <a href="https://velog.io/@resyve"><img src="https://img.shields.io/badge/VBlog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@resyve"/></a>
   <a href="https://www.instagram.com/neednight/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/neednight/"/></a>
-  <a href="mailto:0001401@naver.com"><img src="https://img.shields.io/badge/Contect-d14836?style=flat&logo=Gmail&logoColor=white&link=0001401@naver.com"/></a>
+  <a href="mailto:0001401@naver.com"><img src="https://img.shields.io/badge/Contact-d14836?style=flat&logo=Gmail&logoColor=white&link=0001401@naver.com"/></a>
 
 
 
