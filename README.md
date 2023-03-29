@@ -4,7 +4,7 @@
 
   
   ```TS
-type SoyoungType = 'react' | 'javascript'
+type SoyoungType = 'ReactJS' | 'NextJS' | 'typescript'
   ```
 
   
