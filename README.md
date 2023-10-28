@@ -9,7 +9,6 @@ type SoyoungType = 'ReactJS' | 'NextJS' | 'typescript'
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0001401&layout=compact)](https://github.com/0001401/github-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=resyve)](https://github.com/resyve/velog-readme-stats)
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0001401&count_bg=%23787878&title_bg=%23F1A7A7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
