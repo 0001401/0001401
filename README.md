@@ -1,10 +1,10 @@
 
-  ## console.log('소영')
+  ## console.log('하윤')
   
 
   
   ```TS
-type SoyoungType = 'ReactJS' | 'NextJS' | 'typescript'
+type HayoonType = 'ReactJS' | 'NextJS' | 'typescript'
   ```
 
   
